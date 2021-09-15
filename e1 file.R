@@ -8,3 +8,5 @@ a="cell phone"
 print="a"
 
 a
+ data<-c(1,6,9,90)
+data
